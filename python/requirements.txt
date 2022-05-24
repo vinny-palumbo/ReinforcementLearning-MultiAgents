@@ -1,5 +1,5 @@
 unityagents>=0.4.0
-tensorflow==1.7.1
+tensorflow==2.6.4
 Pillow>=4.2.1
 matplotlib
 numpy>=1.11.0
